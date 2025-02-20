@@ -16,7 +16,7 @@ disqusShortname = ""
 
 [services]
   [services.googleAnalytics]
-    id = 'G-6S1ZDQB38V'
+    id = 'G-VEY7FWXH3Y'
 
 [pagination]
 pagerSize = 5
